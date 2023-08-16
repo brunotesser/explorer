@@ -1,7 +1,7 @@
 # explorer
 
 
-<h3> Mapa da Jornada </h3>
+<h1> Mapa da Jornada </h1>
 - Mentalidade: busque a comunidade e trabalhe em grupo, pois trará mais vantagem. <br>
 - Isso também é uma forma de conseguir ensinar e aprender 2x mais, ou as vezes buscar uma solução com alguém e aprender também. <br>
 - Se expor e mostrar seus erros e as vezes até o medo irá ajudar, tem mais pessoas que quer ajudar do que julgar. <br>
@@ -11,7 +11,7 @@
 - Fazer conexões LINKEDIN, ser membro ativo, compartilhar conhecimentos em BLOG, VIDEOS, CANAL DE VOZ <br>
 - Ajudar pessoa mesmo que não sabe a resposta, isso vai te ajudar buscar resposta junto e aprender.  <br>
 
-<h3> Propósito </h3>
+<h1> Propósito </h1>
 - Ter clareza de propósito terá mais disciplina, mais energia e mais determinação para alcançar. <br>
 - Vai ter um alinhamento e ser algo prazeroso. <br>
 - São valores no que você quer, se encaixa e isso está alinhado e motivação. <br>
