@@ -1,6 +1,7 @@
 # explorer
 
 # projeto 1 - criação landing page
+# projeto 2 - Create LP - treine.me com nav e botão
 
 
 <h1> Mapa da Jornada </h1>
