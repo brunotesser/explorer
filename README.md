@@ -47,6 +47,8 @@
 
 <h2> Técnicas para Estudos </h2>
 - POMODORO: 50min e 10min intervalo; <br>
-- LOZANOV: 
+- LOZANOV: musica classicas de 60-70bpm para ficar de fundo enquanto estuda; <br>
+- FEYMANN: é estudar e explicar para alguém como se fosse alguém de 5 serie, isso você aprende 2x mais; <br>
+- Active Recall: estudar, anotar, tentar puxar da memória; <br>
 
  
