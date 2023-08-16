@@ -65,18 +65,38 @@ section p {
 }
 
 button {
+  color: white;
   text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
+
+  background-color: #69B99D;
+  border: none;
+  padding: 14px 32px 15px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+
+button:hover{
+  background-color: #0e3d2d;
 }
 
 footer {
   font-size: 14px;
   line-height: 28px;
+  text-align: center;
+  margin-top: 80px;
 }
 
 footer a {
   font-weight: bold;
-  text-align: center;
-  margin-top: 80px;
+  
 }
+
+
 
