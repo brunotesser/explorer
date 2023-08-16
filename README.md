@@ -1,6 +1,4 @@
-# explorer
-
-# projeto 1 - criação landing page
+# projeto 1 - Create LP - mobilia
 # projeto 2 - Create LP - treine.me com nav e botão
 
 
