@@ -35,7 +35,12 @@ h1 {
   color: #1F1534;
   font-weight: normal;
   width: 490px;
+}
 
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 h1 span {
@@ -52,10 +57,11 @@ a {
   color: #1F1534;
 }
 
-p {
+section p {
   font-size: 14px;
   line-height: 28px;
   color: #7D7987;
+  margin: 40px 0;
 }
 
 button {
@@ -70,4 +76,7 @@ footer {
 
 footer a {
   font-weight: bold;
+  text-align: center;
+  margin-top: 80px;
 }
+
