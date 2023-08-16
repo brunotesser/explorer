@@ -1,5 +1,7 @@
 # explorer
 
+# projeto 1 - criação landing page
+
 
 <h1> Mapa da Jornada </h1>
 - Mentalidade: busque a comunidade e trabalhe em grupo, pois trará mais vantagem. <br>
