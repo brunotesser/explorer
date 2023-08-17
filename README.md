@@ -1,6 +1,6 @@
 # projeto 1 - Create LP - mobilia
 # projeto 2 - Create LP - treine.me with nav and button
-# projeto 3 - Criando formulário
+# projeto 3 - Making forms
 # projeto 4 - Training responsiveness
 # projeto 5 - Training .CSS (animation, root, rem, etc)
 
