@@ -33,6 +33,8 @@ body {
 main {
   display: grid;
   gap: 3.2rem;
+  padding-bottom: 10rem;
+  animation: downtop 700ms 350ms backwards;
 }
 
 header {
@@ -40,6 +42,7 @@ header {
   font-family: var(--ff-heading);
 
   text-align: center;
+  animation: topdown 700ms;
 
 }
 
@@ -63,6 +66,17 @@ header h1 {
   max-width: 33rem;
   margin: 0 auto;
 }
+
+
+
+@media (min-width: 700px){
+  .page {
+    max-width: 117rem;
+  }
+}
+
+
+
 
 img {
   width: 100%;
@@ -118,44 +132,36 @@ img {
 
 }
 
-header {
-  animation: topdown 700ms;
-
-}
-
-main {
-animation: downtop 700ms 350ms backwards;
-
-}
 
 
-  @keyframes topdown {
-    0% {
-      opacity: 0;
-      transform: translateY(-15px);
 
-    }
-
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-
+@keyframes topdown {
+  0% {
+    opacity: 0;
+    transform: translateY(-15px);
 
   }
 
-  @keyframes downtop {
-    
-    0% {
-      opacity: 0;
-      transform: translateY (15px);
-
-    }
-    
-    100% {
-
-      opacity: 1;
-      transform: translateY (0);
-
-    }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
   }
+
+
+}
+
+@keyframes downtop {
+
+  0% {
+    opacity: 0;
+    transform: translateY (15px);
+
+  }
+
+  100% {
+
+    opacity: 1;
+    transform: translateY (0);
+
+  }
+}
