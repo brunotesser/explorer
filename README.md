@@ -1,8 +1,8 @@
 # projeto 1 - Create LP - mobilia
-# projeto 2 - Create LP - treine.me com nav e botão
+# projeto 2 - Create LP - treine.me with nav and button
 # projeto 3 - Criando formulário
-# projeto 4 - Treinando responsividade
-# projeto 5 - Treinando com CSS (animações, transições, grids, etc)
+# projeto 4 - Training responsiveness
+# projeto 5 - Training .CSS (animation, root, rem, etc)
 
 
 <h2> Mapa da Jornada </h2>
