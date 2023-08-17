@@ -1,9 +1,17 @@
 # projeto 1 - Create LP - mobilia
 <img src="https://i.imgur.com/fwAHGLG.jpeg"/>
+
 # projeto 2 - Create LP - treine.me with nav and button
+<img src="https://i.imgur.com/oVGeuwd.jpeg"/>
+
 # projeto 3 - Making forms
-# projeto 4 - Training responsiveness
+<img src="https://i.imgur.com/VFCoRVA.jpeg"/>
+
+# projeto 4 - Training responsiveness (mobile, desktop)
+<img src="https://i.imgur.com/gjhvNXL.jpeg"/>
+
 # projeto 5 - Training .CSS (animation, root, rem, etc)
+<img src=""/>
 
 
 <h2> Mapa da Jornada </h2>
