@@ -70,6 +70,10 @@ header h1 {
 
 
 @media (min-width: 700px){
+  :root {
+    --fs-heading: 5.6rem;
+  }
+
   .page {
     max-width: 117rem;
   }
