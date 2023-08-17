@@ -1,6 +1,7 @@
 # projeto 1 - Create LP - mobilia
 # projeto 2 - Create LP - treine.me com nav e botão
 # projeto 3 - Criando formulário
+# projeto 4 - Treinando responsividade
 
 
 <h2> Mapa da Jornada </h2>
