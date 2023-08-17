@@ -76,12 +76,18 @@ img {
 
 
 .card img {
-    height: 41.6rem;
-    object-fit: cover ;
+  height: 41.6rem;
+  object-fit: cover;
 
-    border-radius: 6px;
+  border-radius: 6px;
+
+  transition: transform 400ms;
 }
 
+.card img:hover {
+  transform: scale(1.1);
+
+}
 
 .card h2 {
   position: absolute;
@@ -94,7 +100,7 @@ img {
   flex-direction: column;
   gap: 2.8rem;
 
-  
+
 }
 
 .card h2 span {
