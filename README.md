@@ -65,4 +65,5 @@
 - FEYMANN: é estudar e explicar para alguém como se fosse alguém de 5 serie, isso você aprende 2x mais; <br>
 - Active Recall: estudar, anotar, tentar puxar da memória; <br>
 
- 
+ <h2> Ansiedade </h2>
+ -  
