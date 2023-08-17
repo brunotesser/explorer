@@ -11,7 +11,7 @@
 <img src="https://i.imgur.com/gjhvNXL.jpeg"/>
 
 # projeto 5 - Training .CSS (animation, root, rem, etc)
-<img src=""/>
+<img src="https://i.imgur.com/O9o7NYX.jpeg"/>
 
 
 <h2> Mapa da Jornada </h2>
