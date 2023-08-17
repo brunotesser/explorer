@@ -5,7 +5,9 @@
 <img src="https://i.imgur.com/oVGeuwd.jpeg"/>
 
 # projeto 3 - Making forms
-<img src="https://i.imgur.com/VFCoRVA.jpeg"/>
+<div style="text-align: center;">
+  <img src="https://i.imgur.com/VFCoRVA.jpeg" style="display: inline-block; margin: 0 auto;">
+</div>
 
 # projeto 4 - Training responsiveness (mobile, desktop)
 <img src="https://i.imgur.com/gjhvNXL.jpeg"/>
