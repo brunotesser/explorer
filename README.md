@@ -2,6 +2,7 @@
 # projeto 2 - Create LP - treine.me com nav e botão
 # projeto 3 - Criando formulário
 # projeto 4 - Treinando responsividade
+# projeto 5 - Treinando com CSS (animações, transições, grids, etc)
 
 
 <h2> Mapa da Jornada </h2>
